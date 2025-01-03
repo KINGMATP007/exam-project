@@ -1,0 +1,4 @@
+C:\Users\ATC\source\repos\second method\obj\Debug\net8.0\second method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATC\source\repos\second method\obj\Debug\net8.0\second method.AssemblyInfoInputs.cache
+C:\Users\ATC\source\repos\second method\obj\Debug\net8.0\second method.AssemblyInfo.cs
+C:\Users\ATC\source\repos\second method\obj\Debug\net8.0\second method.csproj.CoreCompileInputs.cache
