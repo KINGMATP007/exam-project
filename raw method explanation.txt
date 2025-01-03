@@ -1,0 +1,16 @@
+//تعریف متد
+int[] MyMethod(int[] input)
+//ساخت لیست که در  آن متغیر های غیر تکراری قرار میگیرند
+{
+    List<int> MyList = new List<int>();
+//حلقه ای برای پیدا کردن و جداسازی متغیر های غیر تکراری و اضافه کردن آنها به لیست
+    foreach (int i in input)
+    {
+        if (MyList.Contains(i) == false)
+        {
+            MyList.Add(i);
+        }
+           
+    }
+return MyList.ToArray();
+}
